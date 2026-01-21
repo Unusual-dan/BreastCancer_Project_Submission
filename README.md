@@ -33,5 +33,6 @@ This project implements a Machine Learning system to predict whether a breast ca
 - `app.py`: Flask application entry point.
 
 ## Author
-**Ekpokpobe Oghenetejiri Great**
-Matric Number: 22CH032007
+**Ogbonna Daniel Emeka**
+Matric Number: 22CH032044
+
